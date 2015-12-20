@@ -1,0 +1,6 @@
+1 .新建文件夹
+2 .add file
+3 .add repository
+4 .add remote
+5 .commit 
+6 .push
