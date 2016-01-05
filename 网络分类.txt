@@ -1,0 +1,2 @@
+网络： 广域网：因特网(Internet)
+       局域网：ethernet以太网
