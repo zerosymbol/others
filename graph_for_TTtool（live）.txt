@@ -1,0 +1,214 @@
+1	ES Voice Total
+2	ES Voice BCN Total
+3	ES Voice MAD Total
+4	ES Voice HITS
+5	ES Voice LOWI
+6	ES Voice EROSKI
+7	ES Voice BT
+8	ES Voice LEBARA
+9	ES SMS
+10	ES USSD IN
+11	ES USSD comviva
+12	ES MAD STP
+13	ES BCN STP
+14	ES HLR
+15	ES DATA Affirmed GGSN(1/2)
+16	ES DATA Cisco GGSN(3/4)
+17	ES DATA Overview
+18	ES DATA Intersite traffic
+19	ES CRM API
+20	NL Voice Total
+21	NL SMS P2P
+22	NL SMS M2P
+23	NL DATA Overview
+24	NL CRM API
+25	NL STP
+26	NL HLR
+27	SA Voice Total
+28	SA SMS P2P
+29	SA SMS M2P
+30	SA DATA APN Stats
+31	SA CRM API
+32	SA STP
+33	SA HLR
+34	service test
+35      ES SMS P2P                        
+36      ES SMS M2P 
+37      SA USSD 
+
+
+1,111,preemption
+1,112,temporary failure
+1,113,send special information tone
+1,114,call rejected
+1,115,normal unspecified
+1,116,no circuit channel available
+1,117,unallocated number
+1,118,network out of order
+1,119,no route to destination
+2,120,preemption
+2,121,temporary failure
+2,122,send special information tone
+2,123,call rejected
+2,124,normal unspecified
+2,125,no circuit channel available
+2,126,unallocated number
+2,127,network out of order
+2,128,no route to destination
+3,129,preemption
+3,130,temporary failure
+3,131,send special information tone
+3,132,call rejected
+3,133,normal unspecified
+3,134,no circuit channel available
+3,135,unallocated number
+3,136,network out of order
+3,137,no route to destination
+4,138,preemption
+4,139,temporary failure
+4,140,send special information tone
+4,141,call rejected
+4,142,normal unspecified
+4,143,no circuit channel available
+4,144,unallocated number
+4,145,network out of order
+4,146,no route to destination
+5,147,preemption
+5,148,temporary failure
+5,149,send special information tone
+5,150,call rejected
+5,151,normal unspecified
+5,152,no circuit channel available
+5,153,unallocated number
+5,154,network out of order
+5,155,no route to destination
+6,156,preemption
+6,157,temporary failure
+6,158,send special information tone
+6,159,call rejected
+6,160,normal unspecified
+6,161,no circuit channel available
+6,162,unallocated number
+6,163,network out of order
+6,164,no route to destination
+7,165,preemption
+7,166,temporary failure
+7,167,send special information tone
+7,168,call rejected
+7,169,normal unspecified
+7,170,no circuit channel available
+7,171,unallocated number
+7,172,network out of order
+7,173,no route to destination
+8,174,preemption
+8,175,temporary failure
+8,176,send special information tone
+8,177,call rejected
+8,178,normal unspecified
+8,179,no circuit channel available
+8,180,unallocated number
+8,181,network out of order
+8,182,no route to destination
+9,183,service down
+9,184,service drop but not completely
+9,185,abnormal status
+10,186,Warning threshold
+10,187,Critical threshold
+11,188,Warning threshold
+11,189,Critical threshold
+12,190,ASP connection
+12,191,hardware status
+12,192,fake alarms
+12,193,others
+13,194,ASP connection
+13,195,hardware status
+13,196,fake alarms
+13,197,others
+14,198,LU
+14,199,SRI
+14,200,AUC
+15,201,service down
+15,202,service drop but not completely
+15,203,service drop but takenover
+16,204,service down
+16,205,service drop but not completely
+16,206,service drop but takenover
+17,207,null
+17,207,null
+18,208,null
+18,208,null
+19,211,down
+19,276,drop
+20,212,preemption
+20,213,temporary failure
+20,214,send special information tone
+20,215,call rejected
+20,216,normal unspecified
+20,217,no circuit channel available
+20,218,unallocated number
+20,219,network out of order
+20,220,no route to destination
+21,221,service down
+21,222,service drop but not completely
+21,223,abnormal status
+22,224,service down
+22,225,service drop but not completely
+22,226,abnormal status
+23,227,service down
+23,228,service drop but not completely
+23,229,service drop but takenover
+24,230,down
+24,231,drop
+25,232,ASP connection
+25,233,hardware status
+25,234,fake alarms
+25,235,others
+26,236,LU
+26,237,SRI
+26,238,AUC
+27,239,preemption
+27,240,temporary failure
+27,241,send special information tone
+27,242,call rejected
+27,243,normal unspecified
+27,244,no circuit channel available
+27,245,unallocated number
+27,246,network out of order
+27,247,no route to destination
+28,248,service down
+28,249,service drop but not completely
+28,250,abnormal status
+29,251,service down
+29,252,service drop but not completely
+29,253,abnormal status
+30,254,service down
+30,255,service drop but not completely
+30,256,service drop but takenover
+31,257,down
+31,258,drop
+32,259,ASP connection
+32,260,hardware status
+32,261,fake alarms
+32,262,others
+33,263,LU
+33,264,SRI
+33,265,AUC
+34,266,ES voice not ok
+34,267,ES sms not ok
+34,268,ES ussd not ok
+34,269,ES 34603001329 lu not ok
+34,270,ES 34634499905 lu not ok
+34,271,NLvoicenotok
+34,272,NLsmsnotok
+34,273,NLlunotok
+34,274,SA ussd not ok
+34,275,SA lu not ok
+35,276,service down
+35,277,service drop but not completely
+35,278,abnormal status                             
+36,279,service down
+36,280,service drop but not completely
+36,281,abnormal status   
+37,282,Warning threshold
+37,283,Critical threshold
+     
